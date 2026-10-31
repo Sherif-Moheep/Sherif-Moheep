@@ -19,7 +19,7 @@ Outside of software, I spend time tinkering with DIY electronics repair, gaming,
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sherif-Moheep&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Sherif-Moheep&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
