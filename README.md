@@ -27,5 +27,5 @@ Outside of software, I spend time tinkering with DIY electronics repair, gaming,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sherif-Moheep&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Sherif-Moheep&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
